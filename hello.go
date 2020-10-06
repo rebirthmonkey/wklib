@@ -1,5 +1,5 @@
 package wklib
 
 func SayHello() string {
-	return "WKLib Hello World!"
+	return "WKLib v1.0.1 Hello World!"
 }
